@@ -1,0 +1,27 @@
+C:\Users\Piter\Desktop\Studia\Studia drugi semestr\Visual Studio\Macierze\Macierze\bin\Debug\netcoreapp3.1\Macierze.exe
+C:\Users\Piter\Desktop\Studia\Studia drugi semestr\Visual Studio\Macierze\Macierze\bin\Debug\netcoreapp3.1\Macierze.deps.json
+C:\Users\Piter\Desktop\Studia\Studia drugi semestr\Visual Studio\Macierze\Macierze\bin\Debug\netcoreapp3.1\Macierze.runtimeconfig.json
+C:\Users\Piter\Desktop\Studia\Studia drugi semestr\Visual Studio\Macierze\Macierze\bin\Debug\netcoreapp3.1\Macierze.runtimeconfig.dev.json
+C:\Users\Piter\Desktop\Studia\Studia drugi semestr\Visual Studio\Macierze\Macierze\bin\Debug\netcoreapp3.1\Macierze.dll
+C:\Users\Piter\Desktop\Studia\Studia drugi semestr\Visual Studio\Macierze\Macierze\bin\Debug\netcoreapp3.1\Macierze.pdb
+C:\Users\Piter\Desktop\Studia\Studia drugi semestr\Visual Studio\Macierze\Macierze\obj\Debug\netcoreapp3.1\Macierze.csproj.AssemblyReference.cache
+C:\Users\Piter\Desktop\Studia\Studia drugi semestr\Visual Studio\Macierze\Macierze\obj\Debug\netcoreapp3.1\Macierze.AssemblyInfoInputs.cache
+C:\Users\Piter\Desktop\Studia\Studia drugi semestr\Visual Studio\Macierze\Macierze\obj\Debug\netcoreapp3.1\Macierze.AssemblyInfo.cs
+C:\Users\Piter\Desktop\Studia\Studia drugi semestr\Visual Studio\Macierze\Macierze\obj\Debug\netcoreapp3.1\Macierze.csproj.CoreCompileInputs.cache
+C:\Users\Piter\Desktop\Studia\Studia drugi semestr\Visual Studio\Macierze\Macierze\obj\Debug\netcoreapp3.1\Macierze.dll
+C:\Users\Piter\Desktop\Studia\Studia drugi semestr\Visual Studio\Macierze\Macierze\obj\Debug\netcoreapp3.1\Macierze.pdb
+C:\Users\Piter\Desktop\Studia\Studia drugi semestr\Visual Studio\Macierze\Macierze\obj\Debug\netcoreapp3.1\Macierze.genruntimeconfig.cache
+E:\Inne\Studia\2. Studia drugi semestr\Visual Studio\Macierze\Macierze\bin\Debug\netcoreapp3.1\Macierze.exe
+E:\Inne\Studia\2. Studia drugi semestr\Visual Studio\Macierze\Macierze\bin\Debug\netcoreapp3.1\Macierze.deps.json
+E:\Inne\Studia\2. Studia drugi semestr\Visual Studio\Macierze\Macierze\bin\Debug\netcoreapp3.1\Macierze.runtimeconfig.json
+E:\Inne\Studia\2. Studia drugi semestr\Visual Studio\Macierze\Macierze\bin\Debug\netcoreapp3.1\Macierze.runtimeconfig.dev.json
+E:\Inne\Studia\2. Studia drugi semestr\Visual Studio\Macierze\Macierze\bin\Debug\netcoreapp3.1\Macierze.dll
+E:\Inne\Studia\2. Studia drugi semestr\Visual Studio\Macierze\Macierze\bin\Debug\netcoreapp3.1\Macierze.pdb
+E:\Inne\Studia\2. Studia drugi semestr\Visual Studio\Macierze\Macierze\obj\Debug\netcoreapp3.1\Macierze.csproj.AssemblyReference.cache
+E:\Inne\Studia\2. Studia drugi semestr\Visual Studio\Macierze\Macierze\obj\Debug\netcoreapp3.1\Macierze.GeneratedMSBuildEditorConfig.editorconfig
+E:\Inne\Studia\2. Studia drugi semestr\Visual Studio\Macierze\Macierze\obj\Debug\netcoreapp3.1\Macierze.AssemblyInfoInputs.cache
+E:\Inne\Studia\2. Studia drugi semestr\Visual Studio\Macierze\Macierze\obj\Debug\netcoreapp3.1\Macierze.AssemblyInfo.cs
+E:\Inne\Studia\2. Studia drugi semestr\Visual Studio\Macierze\Macierze\obj\Debug\netcoreapp3.1\Macierze.csproj.CoreCompileInputs.cache
+E:\Inne\Studia\2. Studia drugi semestr\Visual Studio\Macierze\Macierze\obj\Debug\netcoreapp3.1\Macierze.dll
+E:\Inne\Studia\2. Studia drugi semestr\Visual Studio\Macierze\Macierze\obj\Debug\netcoreapp3.1\Macierze.pdb
+E:\Inne\Studia\2. Studia drugi semestr\Visual Studio\Macierze\Macierze\obj\Debug\netcoreapp3.1\Macierze.genruntimeconfig.cache
